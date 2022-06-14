@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#react-forontend
+node_modules/
+frontend/node_modules/
+
